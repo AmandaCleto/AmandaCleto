@@ -1,5 +1,5 @@
 
-## Hey! I'm Amanda, nice to meet you <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
+## Hey! I'm Amanda, nice to meet you <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=amandacleto.amandacleto" alt="Visitas">
 
 ### ✨ A little bit about me:
 - <img src="https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-brazil.svg"> Brazilian, 22 years old;
@@ -22,31 +22,33 @@
 
 <br>
 
-#### ❤ Favorite Technologies:
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-js.svg)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-nodejs.svg)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-express.svg)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-typescript.svg)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-react.svg)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-vue.svg)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-laravel.svg)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-webpack.svg)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-html.svg)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-css3.svg)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-sass.svg)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-tailwind.svg)
+#### ❤ Technologies I have already used it:
+[![Javascript](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-js.svg)](https://www.javascript.com/)
+[![Nodejs](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-nodejs.svg)](https://nodejs.org/en/)
+[![Express](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-express.svg)](https://expressjs.com/)
+[![Typescript](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-typescript.svg)](https://www.typescriptlang.org/)
+[![React](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-react.svg)](https://reactjs.org/)
+[![Vue](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-vue.svg)](https://vuejs.org/)
+[![Laravel](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-laravel.svg)](https://laravel.com/)
+[![Webpack](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-webpack.svg)](https://webpack.js.org/)
+[![Html](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-html.svg)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-css3.svg)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![Bootstrap](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-bootstrap.svg)](https://getbootstrap.com/)
+[![Sass](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-sass.svg)](https://sass-lang.com/)
+[![Tailwind](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-tailwind.svg)](https://tailwindcss.com/)
+
 ---
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-bitbucket.svg)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-github.svg)
+[![Bitbucket](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-bitbucket.svg)](https://bitbucket.org/product/)
+[![Github](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-github.svg)](https://github.com/)
 
 #### 💙 Favorite OS:
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-linux.svg)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-windows.svg)
+![Linux](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-linux.svg)
+![Windows](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-windows.svg)
 
 #### 🤓 Learning at the moment:
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-flutter.svg)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-dart.svg)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-threejs.svg)
+[![Flutter](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-flutter.svg)](https://flutter.dev/)
+[![Dart](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-dart.svg)](https://dart.dev/)
+[![Threejs](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-threejs.svg)](https://threejs.org/)
 
 <br>
 
