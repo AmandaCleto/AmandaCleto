@@ -4,7 +4,7 @@
 ### ✨ A little bit about me:
 - 🇧🇷 Brazilian, 22 years old;
 - 👩🏻‍💻 I've been working in the development area for **a year and a half**;
-- 🎓 Graduated in Systems Analysis and Development in **FATEC-SO**;
+- 🎓 Graduated in Systems Analysis and Development from **FATEC-SO**;
 
 - 📚 I enjoy to study; 🎧 I love music; ✍🏻 I like to draw.
 
@@ -31,6 +31,10 @@
 ![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-vue.svg)
 ![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-laravel.svg)
 ![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-webpack.svg)
+![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-html.svg)
+![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-css3.svg)
+![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-sass.svg)
+![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-tailwind.svg)
 ---
 ![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-bitbucket.svg)
 ![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-github.svg)
