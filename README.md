@@ -1,5 +1,5 @@
 
-# Hey! I'm Amanda, nice to meet you <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=amandacleto.amandacleto" alt="Visitas">
+# Hey! I'm Amanda, nice to meet you <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> 
 
 ## ✨ A little bit about me:
 - <img src="https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-brazil.svg"> Brazilian, 22 years old;
