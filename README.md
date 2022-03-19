@@ -36,6 +36,8 @@
 [![Bootstrap](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-bootstrap.svg)](https://getbootstrap.com/)
 [![Sass](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-sass.svg)](https://sass-lang.com/)
 [![Tailwind](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-tailwind.svg)](https://tailwindcss.com/)
+[![Flutter](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-flutter.svg)](https://flutter.dev/)
+[![Dart](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-dart.svg)](https://dart.dev/)
 
 ---
 [![Bitbucket](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-bitbucket.svg)](https://bitbucket.org/product/)
