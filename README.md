@@ -42,10 +42,6 @@
 [![Bitbucket](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-bitbucket.svg)](https://bitbucket.org/product/)
 [![Github](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-github.svg)](https://github.com/)
 
-#### 💙 Favorite OS:
-![Linux](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-linux.svg)
-![Windows](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-windows.svg)
-
 #### 🤓 Learning at the moment:
 [![Flutter](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-flutter.svg)](https://flutter.dev/)
 [![Dart](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-dart.svg)](https://dart.dev/)
