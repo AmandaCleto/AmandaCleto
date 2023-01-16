@@ -45,7 +45,7 @@
 #### 🤓 Learning at the moment:
 [![Flutter](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-flutter.svg)](https://flutter.dev/)
 [![Dart](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-dart.svg)](https://dart.dev/)
-[![Threejs](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-threejs.svg)](https://threejs.org/)
+<!-- [![Threejs](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-threejs.svg)](https://threejs.org/) -->
 
 <br>
 
