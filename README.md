@@ -3,7 +3,7 @@
 
 ## ✨ A little bit about me:
 - <img src="https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-brazil.svg"> Brazilian, 24 years old;
-- 👩🏻‍💻 I've been working in the development area for almost **two years**;
+- 👩🏻‍💻 I've been working in the development area for almost **three years**;
 - 🎓 Graduated in Systems Analysis and Development from **FATEC-SO**;
 - 📚 I enjoy to study; 🎧 I love music; ✍🏻 I like to draw.
 
