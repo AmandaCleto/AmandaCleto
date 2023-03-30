@@ -43,11 +43,13 @@
 [![Github](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-github.svg)](https://github.com/)
 
 #### 🤓 Learning at the moment:
-[![Kotlin](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-kotlin.svg)](https://kotlinlang.org/)
+[![Flutter](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-flutter.svg)](https://flutter.dev/)
+//[![Kotlin](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-kotlin.svg)](https://kotlinlang.org/)
 
 #### 👩🏻‍💻 Currently working with:
 [![Flutter](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-flutter.svg)](https://flutter.dev/)
 [![Dart](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-dart.svg)](https://dart.dev/)
+[![Kotlin](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-kotlin.svg)](https://kotlinlang.org/)
 <!-- [![Threejs](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-threejs.svg)](https://threejs.org/) -->
 
 <br>
